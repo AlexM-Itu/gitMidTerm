@@ -1,1 +1,1 @@
-content 1 modified in 3 and 4 and 5 and from feature1 branch and also on master and on feature2 branch
+content 1 modified in 3 and 4 and 5 and from feature1 branch and also on master and on feature2 branch and another on master
