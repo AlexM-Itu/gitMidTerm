@@ -1,1 +1,2 @@
-content 1 from master and from master as well
+content 1 from master with appending from brConf branch and from master as well
+
